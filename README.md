@@ -1,7 +1,7 @@
 # Hi 👋 I'm Mansi Rathor
 
 🎓 BTech Student | 💻 Full Stack Developer  
-🚀 DSA & LeetCode | 🌱 Learning daily  
+🚀 DSA & LeetCode 
 
 ---
 
