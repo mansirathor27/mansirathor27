@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🚀 Problem Solver |  BTech Student
+💻 Full Stack Developer |  Problem Solver |  BTech Student
 </h3>
 
 <br/>
