@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, DSA, React, Node.js, MongoDB**
 
-⚡ Fun fact: **I love solving coding problems and building projects MERN stack**
+⚡ Fun fact: **I love solving coding problems and building projects **
 
 </div>
 
