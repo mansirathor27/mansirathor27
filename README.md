@@ -72,7 +72,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 GitHub Trophies </h2>
 
 <div align="center">
 
